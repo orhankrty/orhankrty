@@ -1,4 +1,9 @@
-## 👋 Hi, I'am Hüseyin Orhan Kırtay <br>
+## 👋 Hi, I'am Hüseyin Orhan Kırtay
+## ℹ️ About Me
+I am a result-oriented developer focused on transforming technological innovations into tangible, high-standard solutions by combining software development with R&D, AI, and academic project design disciplines. My core objective is to realize high-value projects by synthesizing technical depth and strategic planning.
+
+
+
 
 <!--
 **orhankrty/orhankrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
