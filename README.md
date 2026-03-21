@@ -2,7 +2,6 @@
 ## ℹ️ About Me
 I am a result-oriented developer focused on transforming technological innovations into tangible, high-standard solutions by combining software development with R&D, AI, and academic project design disciplines. My core objective is to realize high-value projects by synthesizing technical depth and strategic planning.
 ## 📖 My Student Career
-🎓 Graduate of Öztimurlar Anatolian Vocational and Technical High School - Informatics Technologies Department / Database Programming Branch. <br>
 🎓 Student in Front-End Software Development Department at Samsun University. <br>
 🎓 A student in the Computer Programming Department at Atatürk University. <br>
 🎓 Student in the Management Information Systems Department at Ankara University. <br>
