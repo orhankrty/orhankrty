@@ -1,7 +1,11 @@
 ## 👋 Hi, I'am Hüseyin Orhan Kırtay
 ## ℹ️ About Me
 I am a result-oriented developer focused on transforming technological innovations into tangible, high-standard solutions by combining software development with R&D, AI, and academic project design disciplines. My core objective is to realize high-value projects by synthesizing technical depth and strategic planning.
-
+## 📖 My Student Career
+🎓 Graduate of Öztimurlar Anatolian Vocational and Technical High School - Informatics Technologies Department / Database Programming Branch.
+🎓 Front-End Software Development Student at Samsun University <br>
+🎓 Computer Programming Student at Ataturk University <br>
+🎓 Management Information Systems Student at Ankara University <br>
 
 
 
