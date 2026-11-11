@@ -1,10 +1,16 @@
 ## 👋 Merhaba, Ben Hüseyin Orhan Kırtay
 ## ℹ️ Hakkımda
-Samsun Üniversitesi'nde Ön-Yüz Yazılım Geliştirme, Ankara Üniversitesi'nde Yönetim Bilişim Sistemleri ve Atatürk Üniversitesi'nde Bilgisayar Programcığılığı alanlarında eş zamanlı olarak eğitim gören bir geliştirici olarak, teknoloji ortamının hem teknik mimarisi hem de stratejik yönetimi konusunda uzmanlaşmış durumdayım. Bu üç disiplinli akademik temeli, çeşitli profesyonel platformlarda yürüttüğüm araştırma ve geliştirme projelerim aracılığıyla somut, yüksek kaliteli sonuçlara dönüştürüyorum. Yazılım geliştirmeye yaklaşımım, akademik titizliği profesyonel endüstri standartlarıyla birleştirerek, sadece işlevsel kod yazmaya değil, sürdürülebilir ve yenilikçi sistemler tasarlamaya odaklanıyor. Projelerimin her aşamasını –titiz literatür incelemelerinden kapsamlı teknik dokümantasyona kadar– son derece hassas bir şekilde ele alarak, yenilik odaklı çalışmalar yoluyla endüstriyel değer yaratmayı hedefliyorum. Karmaşık sorunları analiz etmeye ve yüksek standartta profesyonel çıktılar sunmaya olan bağlılığımla, akademik disiplini sağlam bir Ar-Ge kültürüyle birleştirerek geleceğin teknolojilerini inşa etmeye adanmış durumdayım.
+2005 yılında Samsun’da doğdum; Samsun’da ikamet ediyorum. <br>
+Yazılım, yapay zekâ, teknoloji ve AR-GE alanlarına ilgi duyuyorum. <br>
+Git ve GitHub ile versiyon kontrolü ve ekip içi iş birliği deneyimine sahibim. <br>
+Araştırma, teknik yazım ve proje geliştirme yetkinliklerimi geliştiriyorum. <br>
+Takım çalışması, sunum, problem çözme ve analitik düşünme becerilerine sahibim. <br>
+İleri seviye derecede, AI kodlama araçlarını her alanda efektif kullanabiliyorum. 
+(Claude Code, Gemini/Antigravity, Cursor, Codex, CLI kullanımı)
 ## 📖 Eğitim
 🎓 Samsun Üniversitesi Ön-Yüz Yazılım Geliştirme Öğrencisi. <br>
-🎓 Atatürk Üniversitesi Bilgisayar Programcılığı Öğrencisi. <br>
 🎓 Ankara Üniversitesi Yönetim Bilişim Sistemleri Öğrencisi. <br>
+🎓 Atatürk Üniversitesi Bilgisayar Programcılığı Mezunu. <br>
 ## 🌐 İletişim
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseyinorhankirtay55gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyinorhankirtay)
